@@ -7,3 +7,10 @@
 - React
 - CSS
 - HTML
+
+### Как быстро запустить:
+
+```
+git clone
+npm start
+```
